@@ -1,0 +1,24 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/vue,vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=vue,vuejs
+
+### Vue ###
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+vue-app/docs/_book
+
+# TODO: where does this rule come from?
+vue-app/test/
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+vue-app/node_modules/
+vue-app/dist/
+vue-app/npm-debug.log
+vue-app/yarn-error.log
+
+# End of https://www.toptal.com/developers/gitignore/api/vue,vuejs
